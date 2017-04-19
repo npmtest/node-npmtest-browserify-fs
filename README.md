@@ -1,6 +1,6 @@
 # npmtest-browserify-fs
 
-#### test coverage for  [browserify-fs (v1.0.0)](https://github.com/mafintosh/browserify-fs)  [![npm package](https://img.shields.io/npm/v/npmtest-browserify-fs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browserify-fs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browserify-fs.svg)](https://travis-ci.org/npmtest/node-npmtest-browserify-fs)
+#### basic test coverage for  [browserify-fs (v1.0.0)](https://github.com/mafintosh/browserify-fs)  [![npm package](https://img.shields.io/npm/v/npmtest-browserify-fs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-browserify-fs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-browserify-fs.svg)](https://travis-ci.org/npmtest/node-npmtest-browserify-fs)
 
 #### fs for the browser using level-filesystem and browserify
 
